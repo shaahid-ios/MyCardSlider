@@ -1,0 +1,6 @@
+framework module Pods_MyCardSlider_MyCardSliderUITests {
+  umbrella header "Pods-MyCardSlider-MyCardSliderUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
